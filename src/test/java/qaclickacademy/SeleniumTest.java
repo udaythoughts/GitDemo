@@ -27,7 +27,13 @@ public class SeleniumTest {
 	  System.out.println("elementsUI1");
   }	
   
+  //Changes done by Onsite Architect
   
+  @Test
+  public void elementsUI12()
+  {
+	  System.out.println("elementsUI1");
+  }	
 	
 }
 
