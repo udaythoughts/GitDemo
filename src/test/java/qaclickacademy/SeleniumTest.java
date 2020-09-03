@@ -20,6 +20,14 @@ public class SeleniumTest {
   {
 	  System.out.println("elementsUI");
   }	
+  //Changes doneby offshore architect
+  @Test
+  public void elementsUI1()
+  {
+	  System.out.println("elementsUI1");
+  }	
+  
+  
 	
 }
 

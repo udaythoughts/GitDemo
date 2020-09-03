@@ -9,6 +9,12 @@ public class AppiumTest {
 	{
 	System.out.println("NativeAppAndroid");
 	}
+	// Change done by Offshore architect
+	@Test
+	public void NativeAppAndroid1()
+	{
+	System.out.println("NativeAppAndroid1");
+	}
     
 	@Test
 	public void IOSApps()

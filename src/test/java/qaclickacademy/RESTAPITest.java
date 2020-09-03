@@ -28,5 +28,12 @@ public class RESTAPITest {
 	{
 		System.out.println("deleteTwitter");
 	}
+	//Changes done by Offshore Architect
+	
+	@Test
+	public void deleteTwitter1()
+	{
+		System.out.println("deleteTwitter1");
+	}
 	
 }
