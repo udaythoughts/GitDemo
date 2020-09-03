@@ -9,6 +9,9 @@ public class SeleniumTest {
   public void BrowserAutomation()
   {
 	  System.out.println("BrowserAutomation");	
+	  
+	  //Changes done by US team
+	  System.out.println("Web Automation");
   }
   
 	
