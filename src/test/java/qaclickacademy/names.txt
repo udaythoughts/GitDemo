@@ -14,3 +14,6 @@ SG
 MUM
 CHN
 BLR
+Mexico
+Newyork
+London
